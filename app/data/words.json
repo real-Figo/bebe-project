@@ -1,0 +1,254 @@
+[
+    {
+      "spanish": "casa",
+      "english": "house",
+      "meaning": "A building for human habitation."
+    },
+    {
+      "spanish": "coche",
+      "english": "car",
+      "meaning": "A motor vehicle used for transportation."
+    },
+    {
+      "spanish": "libro",
+      "english": "book",
+      "meaning": "A written or printed work consisting of pages."
+    },
+    {
+      "spanish": "amor",
+      "english": "love",
+      "meaning": "A strong feeling of affection."
+    },
+    {
+      "spanish": "amigo",
+      "english": "friend",
+      "meaning": "A person with whom one has a bond of mutual affection."
+    },
+    {
+      "spanish": "comer",
+      "english": "to eat",
+      "meaning": "To consume food."
+    },
+    {
+      "spanish": "agua",
+      "english": "water",
+      "meaning": "A clear, essential liquid for life."
+    },
+    {
+      "spanish": "día",
+      "english": "day",
+      "meaning": "A 24-hour period."
+    },
+    {
+      "spanish": "noche",
+      "english": "night",
+      "meaning": "The period of darkness in each twenty-four hours."
+    },
+    {
+      "spanish": "trabajo",
+      "english": "work",
+      "meaning": "Activity involving mental or physical effort."
+    },
+    {
+      "spanish": "escuela",
+      "english": "school",
+      "meaning": "An institution for educating children."
+    },
+    {
+      "spanish": "familia",
+      "english": "family",
+      "meaning": "A group of related individuals."
+    },
+    {
+      "spanish": "tiempo",
+      "english": "time",
+      "meaning": "The indefinite continued progress of existence."
+    },
+    {
+      "spanish": "mano",
+      "english": "hand",
+      "meaning": "The prehensile, multi-jointed part of the human body."
+    },
+    {
+      "spanish": "cielo",
+      "english": "sky",
+      "meaning": "The region of the atmosphere and outer space."
+    },
+    {
+      "spanish": "sol",
+      "english": "sun",
+      "meaning": "The star at the center of our solar system."
+    },
+    {
+      "spanish": "luna",
+      "english": "moon",
+      "meaning": "The natural satellite of the Earth."
+    },
+    {
+      "spanish": "estrella",
+      "english": "star",
+      "meaning": "A luminous point in the night sky."
+    },
+    {
+      "spanish": "mar",
+      "english": "sea",
+      "meaning": "A large body of saltwater."
+    },
+    {
+      "spanish": "montaña",
+      "english": "mountain",
+      "meaning": "A large natural elevation of the earth's surface."
+    },
+    {
+      "spanish": "árbol",
+      "english": "tree",
+      "meaning": "A perennial plant with an elongated stem."
+    },
+    {
+      "spanish": "flor",
+      "english": "flower",
+      "meaning": "The reproductive structure of a plant."
+    },
+    {
+      "spanish": "animal",
+      "english": "animal",
+      "meaning": "A living organism that feeds on organic matter."
+    },
+    {
+      "spanish": "perro",
+      "english": "dog",
+      "meaning": "A domesticated carnivorous mammal."
+    },
+    {
+      "spanish": "gato",
+      "english": "cat",
+      "meaning": "A small domesticated carnivorous mammal."
+    },
+    {
+      "spanish": "comida",
+      "english": "food",
+      "meaning": "Any nutritious substance consumed to maintain life."
+    },
+    {
+      "spanish": "bebida",
+      "english": "drink",
+      "meaning": "A liquid that can be swallowed."
+    },
+    {
+      "spanish": "fruta",
+      "english": "fruit",
+      "meaning": "The sweet and fleshy product of a tree or plant."
+    },
+    {
+      "spanish": "verdura",
+      "english": "vegetable",
+      "meaning": "A plant or part of a plant used as food."
+    },
+    {
+      "spanish": "libertad",
+      "english": "freedom",
+      "meaning": "The power to act or change without constraint."
+    },
+    {
+      "spanish": "felicidad",
+      "english": "happiness",
+      "meaning": "The state of being happy."
+    },
+    {
+      "spanish": "tristeza",
+      "english": "sadness",
+      "meaning": "The condition of feeling sorrow."
+    },
+    {
+      "spanish": "rápido",
+      "english": "fast",
+      "meaning": "Moving at high speed."
+    },
+    {
+      "spanish": "lento",
+      "english": "slow",
+      "meaning": "Moving at a low speed."
+    },
+    {
+      "spanish": "grande",
+      "english": "big",
+      "meaning": "Of considerable size."
+    },
+    {
+      "spanish": "pequeño",
+      "english": "small",
+      "meaning": "Of limited size."
+    },
+    {
+      "spanish": "nuevo",
+      "english": "new",
+      "meaning": "Not existing before; recent."
+    },
+    {
+      "spanish": "viejo",
+      "english": "old",
+      "meaning": "Having lived for a long time."
+    },
+    {
+      "spanish": "bonito",
+      "english": "pretty",
+      "meaning": "Attractive in a delicate way."
+    },
+    {
+      "spanish": "feo",
+      "english": "ugly",
+      "meaning": "Unpleasant to look at."
+    },
+    {
+      "spanish": "fácil",
+      "english": "easy",
+      "meaning": "Achieved without great effort."
+    },
+    {
+      "spanish": "difícil",
+      "english": "difficult",
+      "meaning": "Needing much effort."
+    },
+    {
+      "spanish": "rápidamente",
+      "english": "quickly",
+      "meaning": "At a fast speed."
+    },
+    {
+      "spanish": "lentamente",
+      "english": "slowly",
+      "meaning": "At a slow speed."
+    },
+    {
+      "spanish": "correr",
+      "english": "to run",
+      "meaning": "To move swiftly on foot."
+    },
+    {
+      "spanish": "saltar",
+      "english": "to jump",
+      "meaning": "To push oneself off the ground."
+    },
+    {
+      "spanish": "hablar",
+      "english": "to speak",
+      "meaning": "To communicate using words."
+    },
+    {
+      "spanish": "escuchar",
+      "english": "to listen",
+      "meaning": "To give attention to sound."
+    },
+    {
+      "spanish": "ver",
+      "english": "to see",
+      "meaning": "To perceive with the eyes."
+    },
+    {
+      "spanish": "mirar",
+      "english": "to look",
+      "meaning": "To direct one's gaze."
+    }
+  ]
+
+  
